@@ -1,0 +1,7 @@
+{
+  "name": "EcoTrack+ Industrial Sustainability Governance",
+  "description": "An enterprise-grade platform for tracking, verifying, and certifying CO2-saving activities with a multi-level approval workflow and industrial compliance controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
